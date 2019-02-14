@@ -1,0 +1,4 @@
+.DS_Store
+data/raw/*.csv
+citibike2018/rsconnect/
+*.history

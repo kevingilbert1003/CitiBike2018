@@ -1,0 +1,4 @@
+Raw data was downloaded from: https://s3.amazonaws.com/tripdata/index.html
+Documentation: https://www.citibikenyc.com/system-data
+
+Cleaned data created by sourcing scripts/clean_all_2018.sh
